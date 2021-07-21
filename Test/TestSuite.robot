@@ -4,7 +4,7 @@ Test Setup    OpenBrowser
 Test Teardown    CloseAll
 Resource    setupteardown.robot
 Variables  ../Library/POM/Keywords/csv_read.py    data.csv
-Library    ./Library/suite_functions.py
+Library    ../Library/suite_functions.py
 
 
 *** Test Cases ***
