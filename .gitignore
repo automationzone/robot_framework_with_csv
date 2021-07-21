@@ -1,0 +1,9 @@
+
+*.html
+*.pyc
+*.iml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/csv-plugin.xml
